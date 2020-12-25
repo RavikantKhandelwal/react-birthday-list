@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-birthday-list/static/css/main.a25574c1.chunk.css",
+    "main.js": "/react-birthday-list/static/js/main.fe169243.chunk.js",
+    "main.js.map": "/react-birthday-list/static/js/main.fe169243.chunk.js.map",
+    "runtime-main.js": "/react-birthday-list/static/js/runtime-main.2b71f430.js",
+    "runtime-main.js.map": "/react-birthday-list/static/js/runtime-main.2b71f430.js.map",
+    "static/js/2.1f771bf1.chunk.js": "/react-birthday-list/static/js/2.1f771bf1.chunk.js",
+    "static/js/2.1f771bf1.chunk.js.map": "/react-birthday-list/static/js/2.1f771bf1.chunk.js.map",
+    "index.html": "/react-birthday-list/index.html",
+    "precache-manifest.4d2083aac960e4227656ebf481e7ccd7.js": "/react-birthday-list/precache-manifest.4d2083aac960e4227656ebf481e7ccd7.js",
+    "service-worker.js": "/react-birthday-list/service-worker.js",
+    "static/css/main.a25574c1.chunk.css.map": "/react-birthday-list/static/css/main.a25574c1.chunk.css.map",
+    "static/js/2.1f771bf1.chunk.js.LICENSE.txt": "/react-birthday-list/static/js/2.1f771bf1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b71f430.js",
+    "static/js/2.1f771bf1.chunk.js",
+    "static/css/main.a25574c1.chunk.css",
+    "static/js/main.fe169243.chunk.js"
+  ]
+}
